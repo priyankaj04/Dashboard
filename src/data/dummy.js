@@ -628,8 +628,8 @@ export const earningData = [
     amount: '4,396',
     percentage: '+23%',
     title: 'Products',
-    iconColor: 'rgb(255, 244, 229)',
-    iconBg: 'rgb(254, 201, 15)',
+    iconColor: '#b45309',
+    iconBg: '#fef3c7',
     pcColor: 'green-600',
   },
   {
